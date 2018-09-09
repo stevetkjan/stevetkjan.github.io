@@ -4,19 +4,19 @@
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Aug. 2018</td>
+  <td class='col-md-4'>Aug. 2018</td>
   <td>Our phishing detection papers have been accepted to IMC.</td>
 </tr>
 <tr>
-  <td class='col-md-3'>Aug. 2018</td>
-  <td>My intern contribution is recognized by Fellow employee!</td>
+  <td class='col-md-4'>Aug. 2018</td>
+  <td>My intern contribution is recognized by Fellow employee at Intel!</td>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2018</td>
+  <td class='col-md-4'>May 2018</td>
   <td>I am interning at <a href='https://intel.com/'>Intel</a> in Santa Clara this summer.</td>
 </tr>
 <tr>
-  <td class='col-md-3'>Jan. 2018</td>
+  <td class='col-md-4'>Jan. 2018</td>
   <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings systems.</td>
 </tr>
 </table>
