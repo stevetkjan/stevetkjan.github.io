@@ -200,23 +200,23 @@
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-4'>S2017</td>
+  <td class='col-md-2'>S2017</td>
   <td><strong>Intro to Programming in Java</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-4'>F2016</td>
+  <td class='col-md-2'>F2016</td>
   <td><strong>Intro to Programming</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-4'>S2015</td>
+  <td class='col-md-2'>S2015</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-4'>F2014</td>
+  <td class='col-md-2'>F2014</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-4'>S2009</td>
+  <td class='col-md-2'>S2009</td>
   <td><strong>Machine Learning</strong> (NTU CSIE), TA</td>
 </tr>
 </table>
