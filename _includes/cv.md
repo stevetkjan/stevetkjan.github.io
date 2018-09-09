@@ -163,7 +163,7 @@
 
 <tr>
 <td>
-    [8] <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
+    [8] <strong>A Simple Methodology of Soft Cost-sensitive Classification</strong><br>
     <strong>Steve T. K. Jan</strong>, Da-Wei Wang, Chi-Hung Lin, and Hsuan-Tien Lin<br>
      Proceedings of Knowledge Discovery and Data Minin (KDD) 2012<br>
     
@@ -185,7 +185,7 @@
 
 <tr>
 <td>
-    [10] <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
+    [10] <strong>Cost-Sensitive Classification on Pathogen Species of Bacterial Meningitis by Surface Enhanced Raman Scattering</strong><br>
     <strong>Steve T. K. Jan</strong>, Hsuan-Tien Lin, and Da-Wei Wang<br>
      Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
     
