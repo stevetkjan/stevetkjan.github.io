@@ -8,8 +8,16 @@
   <td>Our phishing detection papers have been accepted to IMC.</td>
 </tr>
 <tr>
+  <td class='col-md-3'>Aug. 2018</td>
+  <td>My intern contribution is recognized .</td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2018</td>
   <td>I am interning at <a href='https://intel.com/'>Intel</a> in Santa Clara this summer.</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Jan 2018</td>
+  <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings.</td>
 </tr>
 </table>
 
@@ -47,21 +55,21 @@
 ## <i class="fa fa-chevron-right"></i> Research and Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-4'>May 2018 - Aug. 2018</td>
+  <td class='col-md-6'>May 2018 - Aug. 2018</td>
   <td>
     <strong>Intel</strong>, Ramesh Jaladi <br>
     Deep Learning Research Intern
   </td>
 </tr>
 <tr>
-  <td class='col-md-4'>Apr. 2014 - Present</td>
+  <td class='col-md-6'>Apr. 2014 - Present</td>
   <td>
     <strong>Virginia Tech</strong>, Prof. Gang Wang <br>
     Applied Machine learning and Cyber security
   </td>
 </tr>
 <tr>
-  <td class='col-md-4'>Apr. 2011 - May 2014</td>
+  <td class='col-md-6'>Apr. 2011 - May 2014</td>
   <td>
     <strong>Academia Sinica</strong>, Dr. David Wang and Prof. Hsuan-Tien Lin <br>
     Applied Machine learning
@@ -91,7 +99,7 @@
 <td>
     [2] <strong>The Next Domino To Fall: Empirical Analysis of User Passwords across Online Services</strong><br>
     Chun Wang, <strong>Steve T. K. Jan</strong>, Hang Hu, Douglas Bossart, and Gang Wang<br>
-    Proceedings of The ACM Conference on Data and Applications Security and Privacy (CODASPY) 2018<br>
+     Proceedings of The ACM Conference on Data and Applications Security and Privacy (CODASPY)   2018<br>
     
     
 </td>
@@ -102,7 +110,7 @@
 <td>
     [3] <strong>Pay-per-Question: Towards Targeted Q&A with Payments</strong><br>
     <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
-    Proceedings of ACM International Conference on Supporting Group Work (GROUP) 2018<br>
+     Proceedings of ACM International Conference on Supporting Group Work (GROUP) 2018<br>
     
     
 </td>
@@ -124,7 +132,7 @@
 <td>
     [5] <strong>MeiKe: Influence-based Communities in Networkss</strong><br>
     Yao Zhang, Bijaya Adhikari, <strong>Steve T. K. Jan</strong>, and Aditya Prakash<br>
-    Proceedings of SIAM International Conference on Data Mining (SDM) 2017<br>
+    Proceedings of SIAM International Conference on Data Mining (SDM)   2017<br>
     
     
 </td>
@@ -146,7 +154,7 @@
 <td>
     [7] <strong>Mining Unstable Communities from Network Ensembles</strong><br>
     Ahsanur Rahmana, <strong>Steve T. K. Jan</strong>, Hyunju Kim, Aditya Prakash, and T. M. Murali<br>
-    Proceedings of International Conference on Data Mining Workshop (ICDM Workshop) 2016<br>
+     Proceedings of International Conference on Data Mining Workshop (ICDM Workshop) 2016<br>
     
     
 </td>
@@ -157,7 +165,7 @@
 <td>
     [8] <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
     <strong>Steve T. K. Jan</strong>, Da-Wei Wang, Chi-Hung Lin, and Hsuan-Tien Lin<br>
-    Proceedings of Knowledge Discovery and Data Minin (KDD) 2012<br>
+     Proceedings of Knowledge Discovery and Data Minin (KDD) 2012<br>
     
     
 </td>
@@ -179,7 +187,7 @@
 <td>
     [10] <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
     <strong>Steve T. K. Jan</strong>, Hsuan-Tien Lin, and Da-Wei Wang<br>
-    Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
+     Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
     
     
 </td>
@@ -192,23 +200,23 @@
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2017</td>
+  <td class='col-md-4'>S2017</td>
   <td><strong>Intro to Programming in Java</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-1'>F2016</td>
+  <td class='col-md-4'>F2016</td>
   <td><strong>Intro to Programming</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-1'>S2015</td>
+  <td class='col-md-4'>S2015</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-1'>F2014</td>
+  <td class='col-md-4'>F2014</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-1'>S2009</td>
+  <td class='col-md-4'>S2009</td>
   <td><strong>Machine Learning</strong> (NTU CSIE), TA</td>
 </tr>
 </table>
