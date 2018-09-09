@@ -9,7 +9,7 @@
 </tr>
 <tr>
   <td class='col-md-3'>Aug. 2018</td>
-  <td>My intern contribution is recognized .</td>
+  <td>My intern contribution is recognized by Fellow employee!</td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2018</td>
@@ -17,7 +17,7 @@
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2018</td>
-  <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings.</td>
+  <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings systems.</td>
 </tr>
 </table>
 
