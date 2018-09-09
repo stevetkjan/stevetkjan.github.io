@@ -16,7 +16,7 @@
   <td>I am interning at <a href='https://intel.com/'>Intel</a> in Santa Clara this summer.</td>
 </tr>
 <tr>
-  <td class='col-md-3'>Jan 2018</td>
+  <td class='col-md-3'>Jan. 2018</td>
   <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings systems.</td>
 </tr>
 </table>
@@ -55,21 +55,21 @@
 ## <i class="fa fa-chevron-right"></i> Research and Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-6'>May 2018 - Aug. 2018</td>
+  <td class='col-md-4'>May 2018 - Aug. 2018</td>
   <td>
     <strong>Intel</strong>, Ramesh Jaladi <br>
     Deep Learning Research Intern
   </td>
 </tr>
 <tr>
-  <td class='col-md-6'>Apr. 2014 - Present</td>
+  <td class='col-md-4'>Apr. 2014 - Present</td>
   <td>
     <strong>Virginia Tech</strong>, Prof. Gang Wang <br>
     Applied Machine learning and Cyber security
   </td>
 </tr>
 <tr>
-  <td class='col-md-6'>Apr. 2011 - May 2014</td>
+  <td class='col-md-4'>Apr. 2011 - May 2014</td>
   <td>
     <strong>Academia Sinica</strong>, Dr. David Wang and Prof. Hsuan-Tien Lin <br>
     Applied Machine learning
@@ -253,7 +253,7 @@
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-C, C++, Fortran, Haskell, Java, Make, Python
+C, C++, Java, Make, Python
   </td>
 </tr>
 <tr>
