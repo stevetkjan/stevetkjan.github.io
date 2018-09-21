@@ -1,4 +1,4 @@
- I am a computer science Ph.D. student at Virginia Tech. My advisor is [Prof. Gang Wang](http://people.cs.vt.edu/~gangwang/). My research covers in a feild of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential treats in real world applications. I have been an intern at Intel (2018). <br><br>
+ I am a computer science Ph.D. student at Virginia Tech. My advisor is [Prof. Gang Wang](http://people.cs.vt.edu/~gangwang/). My research covers in a feild of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential treats in real world applications. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
