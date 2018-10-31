@@ -9,7 +9,7 @@
 </tr>
 <tr>
   <td class='col-md-4'>Oct. 2018</td>
-  <td>I will be attending IMC 2018 this year. Come see my presentations.</td>
+  <td>I will be attending IMC 2018 this year. Come to see my presentations.</td>
 </tr>
 <tr>
   <td class='col-md-4'>Aug. 2018</td>
