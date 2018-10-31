@@ -95,7 +95,7 @@
 <tr>
 <td>
     [1] <strong>Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks</strong><br>
-    <strong>Steve T. K. Jan</strong>, Joseph Messou, Jia-Bin Huang, and Gang Wang<br>
+    <strong>Steve T. K. Jan</strong>, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, and Gang Wang<br>
     Proceedings of AAAI Conference on Artificial Intelligence (AAAI) 2019<br>
     
     
