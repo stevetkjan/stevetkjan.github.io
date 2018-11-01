@@ -5,7 +5,7 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>Oct. 2018</td>
-  <td>Our adversarial machine learning papers have been accepted to AAAI!</td>
+  <td>Our adversarial machine learning papers have been accepted to AAAI! The paper was accepted out of 7000+ submissions, The acceptance rate is only 16.2%!</td>
 </tr>
 <tr>
   <td class='col-md-4'>Oct. 2018</td>
