@@ -116,7 +116,7 @@
 
 <tr>
 <td>
-    [3] <strong>Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild</strong><br>
+    [3] [<a href='http://people.cs.vt.edu/gangwang/imc18.pdf' target='_blank'>pdf</a>]  <strong>Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild</strong><br>
     Ke Tien, <strong>Steve T. K. Jan</strong>, Hang Hu, Danfeng Yao, and Gang Wang<br>
      Proceedings of ACM Internet Measurement Conference (IMC) 2018<br>
     
@@ -127,7 +127,7 @@
 
 <tr>
 <td>
-    [4] <strong>The Next Domino To Fall: Empirical Analysis of User Passwords across Online Services</strong><br>
+    [4] [<a href='http://people.cs.vt.edu/gangwang/pass.pdf' target='_blank'>pdf</a>]  <strong>The Next Domino To Fall: Empirical Analysis of User Passwords across Online Services</strong><br>
     Chun Wang, <strong>Steve T. K. Jan</strong>, Hang Hu, Douglas Bossart, and Gang Wang<br>
      Proceedings of The ACM Conference on Data and Applications Security and Privacy (CODASPY)   2018<br>
     
@@ -138,7 +138,7 @@
 
 <tr>
 <td>
-    [5] <strong>Pay-per-Question: Towards Targeted Q&A with Payments</strong><br>
+    [5] [<a href='http://people.cs.vt.edu/gangwang/qa18.pdf' target='_blank'>pdf</a>]  <strong>Pay-per-Question: Towards Targeted Q&A with Payments</strong><br>
     <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
      Proceedings of ACM International Conference on Supporting Group Work (GROUP) 2018<br>
     
@@ -149,7 +149,7 @@
 
 <tr>
 <td>
-    [6] <strong>Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media</strong><br>
+    [6] [<a href='http://people.cs.vt.edu/gangwang/crowdsec17.pdf' target='_blank'>pdf</a>]  <strong>Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media</strong><br>
     Rupinder Paul Khandpur, Taoran Ji, <strong>Steve T. K. Jan</strong>, Gang Wang, Chang-Tien Lu, and Naren Ramakrishnan<br>
     Proceedings of Conference on Information and Knowledge Management (CIKM) 2017<br>
     
@@ -160,7 +160,7 @@
 
 <tr>
 <td>
-    [7] <strong>MeiKe: Influence-based Communities in Networkss</strong><br>
+    [7] [<a href='http://people.cs.vt.edu/~badityap/papers/meike-sdm17.pdf' target='_blank'>pdf</a>]  <strong>MeiKe: Influence-based Communities in Networkss</strong><br>
     Yao Zhang, Bijaya Adhikari, <strong>Steve T. K. Jan</strong>, and Aditya Prakash<br>
     Proceedings of SIAM International Conference on Data Mining (SDM)   2017<br>
     
@@ -171,7 +171,7 @@
 
 <tr>
 <td>
-    [8] <strong>Unstable Communities in Network Ensembles</strong><br>
+    [8] [<a href='http://people.cs.vt.edu/~badityap/papers/ucs-sdm16.pdf' target='_blank'>pdf</a>]  <strong>Unstable Communities in Network Ensembles</strong><br>
     Ahsanur Rahman, <strong>Steve T. K. Jan</strong>, Hyunju Kim, Aditya Prakash, and T. M. Murali<br>
     Proceedings of SIAM International Conference on Data Mining (SDM) 2016<br>
     
@@ -182,7 +182,7 @@
 
 <tr>
 <td>
-    [9] <strong>Mining Unstable Communities from Network Ensembles</strong><br>
+    [9] [<a href='http://people.cs.vt.edu/badityap/papers/ucs-sdm16.pdf' target='_blank'>pdf</a>]  <strong>Mining Unstable Communities from Network Ensembles</strong><br>
     Ahsanur Rahmana, <strong>Steve T. K. Jan</strong>, Hyunju Kim, Aditya Prakash, and T. M. Murali<br>
      Proceedings of International Conference on Data Mining Workshop (ICDM Workshop) 2016<br>
     
@@ -193,7 +193,7 @@
 
 <tr>
 <td>
-    [10] <strong>A Simple Methodology of Soft Cost-sensitive Classification</strong><br>
+    [10] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/kdd12softcost.pdf' target='_blank'>pdf</a>]  <strong>A Simple Methodology of Soft Cost-sensitive Classification</strong><br>
     <strong>Steve T. K. Jan</strong>, Da-Wei Wang, Chi-Hung Lin, and Hsuan-Tien Lin<br>
      Proceedings of Knowledge Discovery and Data Minin (KDD) 2012<br>
     
@@ -204,7 +204,7 @@
 
 <tr>
 <td>
-    [11] <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
+    [11] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/taai13prune.pdf' target='_blank'>pdf</a>]  <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
     Ken-Yi Lin, <strong>Steve T. K. Jan</strong>, and Hsuan-Tien Lin<br>
     Proceedings of Technologies and Applications of Artificial Intelligence (TAAI) 2013<br>
     
@@ -215,7 +215,7 @@
 
 <tr>
 <td>
-    [12] <strong>Cost-Sensitive Classification on Pathogen Species of Bacterial Meningitis by Surface Enhanced Raman Scattering</strong><br>
+    [12] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/bibm11csc.pdf' target='_blank'>pdf</a>]  <strong>Cost-Sensitive Classification on Pathogen Species of Bacterial Meningitis by Surface Enhanced Raman Scattering</strong><br>
     <strong>Steve T. K. Jan</strong>, Hsuan-Tien Lin, and Da-Wei Wang<br>
      Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
     
