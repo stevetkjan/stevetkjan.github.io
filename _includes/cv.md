@@ -122,7 +122,7 @@
     Ke Tien, <strong>Steve T. K. Jan</strong>, Hang Hu, Danfeng Yao, and Gang Wang<br>
      Proceedings of ACM Internet Measurement Conference (IMC) 2018<br>
     
-    [3] [<a href='http://people.cs.vt.edu/gangwang/imc18.pdf' target='_blank'>pdf</a>] <br>
+    [3] [<a href='http://people.cs.vt.edu/gangwang/imc18.pdf' target='_blank'>pdf</a>]  [<a href='http://people.cs.vt.edu/tekang/slides/IMC2018.pptx' target='_blank'>slide</a>] <br>
     
 </td>
 </tr>
@@ -146,7 +146,7 @@
     <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
      Proceedings of ACM International Conference on Supporting Group Work (GROUP) 2018<br>
     
-    [5] [<a href='http://people.cs.vt.edu/gangwang/qa18.pdf' target='_blank'>pdf</a>] <br>
+    [5] [<a href='http://people.cs.vt.edu/gangwang/qa18.pdf' target='_blank'>pdf</a>]  [<a href='http://people.cs.vt.edu/tekang/slides/GROUP2018.pptx' target='_blank'>slide</a>] <br>
     
 </td>
 </tr>
