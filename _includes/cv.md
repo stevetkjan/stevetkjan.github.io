@@ -4,6 +4,10 @@
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-4'>Jan. 2018</td>
+  <td>I will have a spotlight talk on AAAI 2019. Come to see my presentations.</td>
+</tr>
+<tr>
   <td class='col-md-4'>Oct. 2018</td>
   <td>Our adversarial machine learning papers have been accepted to AAAI! The paper was accepted out of 7000+ submissions, the acceptance rate is only 16.2%!</td>
 </tr>
@@ -96,7 +100,7 @@
 <td>
     <strong>Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks</strong><br>
     <strong>Steve T. K. Jan</strong>, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, and Gang Wang<br>
-    Proceedings of AAAI Conference on Artificial Intelligence (AAAI) <strong>Spotlight</strong>  2019<br>
+    Proceedings of AAAI Conference on Artificial Intelligence (AAAI)~**Spotlight** 2019<br>
     
     [1] [<a href='http://people.cs.vt.edu/tekang/papers/AAAI19.pdf' target='_blank'>pdf</a>] <br>
     
