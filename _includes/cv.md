@@ -112,7 +112,7 @@
 <td>
     <strong>Analyzing Payment-driven Targeted Q&A Systems</strong><br>
     <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
-    Transactions on Social Computing (TSC) 2018<br>
+    ACM Transactions on Social Computing (TSC) 2018<br>
     
     [2] [<a href='http://people.cs.vt.edu/tekang/papers/TSC_2018.pdf' target='_blank'>pdf</a>] <br>
     
