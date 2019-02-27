@@ -4,6 +4,10 @@
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-4'>Feb. 2019</td>
+  <td>I will join <a href='http://www.research.ibm.com/'>IBM Research</a> as research intern this summer.</td>
+</tr>
+<tr>
   <td class='col-md-4'>Jan. 2019</td>
   <td>I will have a spotlight talk on AAAI 2019. Come to see my presentations.</td>
 </tr>
