@@ -5,7 +5,7 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>Feb. 2019</td>
-  <td>I will join <a href='http://www.research.ibm.com/'>IBM Research</a> as research intern this summer.</td>
+  <td>I will join <a href='http://www.research.ibm.com/'>IBM Research</a> as a research intern this summer.</td>
 </tr>
 <tr>
   <td class='col-md-4'>Jan. 2019</td>
@@ -285,13 +285,6 @@
   <td class='col-md-2'>2010</td>
   <td>
     Excellent TA award, National Taiwan University
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2008</td>
-  <td>
-    Top 5% scores in the graduate school entrance exam, National Taiwan University
     <!--  -->
   </td>
 </tr>
