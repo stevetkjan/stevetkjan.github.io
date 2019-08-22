@@ -71,6 +71,13 @@
 ## <i class="fa fa-chevron-right"></i> Research and Industry Experience
 <table class="table table-hover">
 <tr>
+  <td class='col-md-4'>May 2019 - Aug. 2019</td>
+  <td>
+    <strong>IBM Research</strong>, Vatche Isahagian and Vinod Muthusamy <br>
+    Explainable AI
+  </td>
+</tr>
+<tr>
   <td class='col-md-4'>May 2018 - Aug. 2018</td>
   <td>
     <strong>Intel</strong>, Ramesh Jaladi <br>
