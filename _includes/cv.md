@@ -5,7 +5,7 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>Feb. 2019</td>
-  <td>I will join <a href='http://www.research.ibm.com/'>IBM Research</a> as a research intern this summer.</td>
+  <td>I will join <a href='http://www.research.ibm.com/'>MIT-IBM Watson AI Lab</a> as a research intern this summer.</td>
 </tr>
 <tr>
   <td class='col-md-4'>Jan. 2019</td>
@@ -73,8 +73,8 @@
 <tr>
   <td class='col-md-4'>May 2019 - Aug. 2019</td>
   <td>
-    <strong>IBM Research</strong>, Vatche Isahagian and Vinod Muthusamy <br>
-    Explainable AI
+    <strong>MIT-IBM Watson AI Lab, IBM Research</strong>, Vatche Isahagian and Vinod Muthusamy <br>
+    AI Trust in business processes
   </td>
 </tr>
 <tr>
