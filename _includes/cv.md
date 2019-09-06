@@ -73,7 +73,7 @@
 <tr>
   <td class='col-md-4'>May 2019 - Aug. 2019</td>
   <td>
-    <strong>MIT-IBM Watson AI Lab, IBM Research</strong>, Vatche Isahagian and Vinod Muthusamy <br>
+    <strong>MIT-IBM Watson AI Lab</strong>, Vatche Isahagian and Vinod Muthusamy <br>
     AI Trust in business processes
   </td>
 </tr>
