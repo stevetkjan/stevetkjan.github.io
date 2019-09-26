@@ -101,7 +101,7 @@
 
 
 <a href="https://scholar.google.com/citations?user=1rTlcOQAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
-  <i class="ai ai-google-scholar"></i> Google Scholar3333
+  <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
 <table class="table table-hover">
