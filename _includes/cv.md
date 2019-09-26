@@ -78,7 +78,7 @@
 </tr>
 <tr>
   <td class='col-md-3'>May 2018 - Aug. 2018</td>
-  <td><strong>Intel</strong>, Research Intern</td>
+  <td><strong>Intel</strong>, Software Engineering Intern</td>
 </tr>
 <tr>
 </tr>
