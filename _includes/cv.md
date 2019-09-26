@@ -5,7 +5,7 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>Feb. 2019</td>
-  <td>I will join <a href='http://www.research.ibm.com/'>MIT-IBM Watson AI Lab</a> as a research intern this summer.</td>
+  <td>I will join <a href='https://mitibmwatsonailab.mit.edu//'>MIT-IBM Watson AI Lab</a> as a research intern this summer.</td>
 </tr>
 <tr>
   <td class='col-md-4'>Jan. 2019</td>
