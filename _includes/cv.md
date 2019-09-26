@@ -68,37 +68,17 @@
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Research and Industry Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-4'>May 2019 - Aug. 2019</td>
-  <td>
-    <strong>MIT-IBM Watson AI Lab</strong>, Vatche Isahagian and Vinod Muthusamy <br>
-    AI Trust in business processes
-  </td>
-</tr>
-<tr>
-  <td class='col-md-4'>May 2018 - Aug. 2018</td>
-  <td>
-    <strong>Intel</strong>, Ramesh Jaladi <br>
-    Deep Learning Research Intern
-  </td>
-</tr>
-<tr>
-  <td class='col-md-4'>Apr. 2014 - Present</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Gang Wang <br>
-    Applied Machine learning and Cyber security
-  </td>
-</tr>
-<tr>
-  <td class='col-md-4'>Apr. 2011 - May 2014</td>
-  <td>
-    <strong>Academia Sinica</strong>, Dr. David Wang and Prof. Hsuan-Tien Lin <br>
-    Applied Machine learning
-  </td>
-</tr>
-</table>
+## <i class="fa fa-chevron-right"></i> Experience
+**, Cambridge, Massachusetts** - __ - 
+
+
+**, Santa Clara, California** - __ - 
+
+
+**, Blacksburg, Virginia** - __ - 
+
+
+**, Taipei, Taiwan** - __ -
 
 
 ## <i class="fa fa-chevron-right"></i>Publications 
