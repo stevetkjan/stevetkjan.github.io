@@ -69,16 +69,32 @@
 
 
 ## <i class="fa fa-chevron-right"></i> Experience
-**, Cambridge, Massachusetts** - __ - 
-
-
-**, Santa Clara, California** - __ - 
-
-
-**, Blacksburg, Virginia** - __ - 
-
-
-**, Taipei, Taiwan** - __ -
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>May 2019 - Aug. 2019</td>
+  <td><strong>MIT-IBM Watson AI Lab</strong>, Research Intern</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>May 2018 - Aug. 2018</td>
+  <td><strong>Intel</strong>, Research Intern</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>Apr. 2014 - Present</td>
+  <td><strong>Virginia Tech</strong>, Research Assistant</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>Apr. 2011 - May 2014</td>
+  <td><strong>Academia Sinica</strong>, Full-time Research Assistant</td>
+</tr>
+<tr>
+</tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i>Publications 
