@@ -5,11 +5,11 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>Dec. 2019</td>
-  <td>I will become a visiting scholar at University of Illinois Urbana-Champaign.</td>
+  <td>I am a visiting scholar at University of Illinois Urbana-Champaign.</td>
 </tr>
 <tr>
   <td class='col-md-4'>Nov. 2019</td>
-  <td>My internship work has been accepted to IAAI!</td>
+  <td>My internship work at IBM research has been accepted to IAAI!</td>
 </tr>
 <tr>
   <td class='col-md-4'>Oct. 2018</td>
