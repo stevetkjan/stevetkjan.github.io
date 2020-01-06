@@ -72,31 +72,27 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-4'>May 2019 - Aug. 2019</td>
-  <td>
-    <strong>MIT-IBM Watson AI Lab</strong>, Vatche Isahagian and Vinod Muthusamy <br>
-    
-  </td>
+  <td><strong>MIT-IBM Watson AI Lab</strong>, Research Intern</td>
+</tr>
+<tr>
 </tr>
 <tr>
   <td class='col-md-4'>May 2018 - Aug. 2018</td>
-  <td>
-    <strong>Intel</strong>, Ramesh Jaladi <br>
-    
-  </td>
+  <td><strong>Intel</strong>, Software Engineering Intern</td>
+</tr>
+<tr>
 </tr>
 <tr>
   <td class='col-md-4'>Apr. 2014 - Present</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Gang Wang <br>
-    
-  </td>
+  <td><strong>Virginia Tech</strong>, Research Assistant</td>
+</tr>
+<tr>
 </tr>
 <tr>
   <td class='col-md-4'>Apr. 2011 - May 2014</td>
-  <td>
-    <strong>Academia Sinica</strong>, Dr. David Wang and Prof. Hsuan-Tien Lin <br>
-    
-  </td>
+  <td><strong>Academia Sinica</strong>, Full-time Research Assistant</td>
+</tr>
+<tr>
 </tr>
 </table>
 
@@ -104,6 +100,9 @@
 ## <i class="fa fa-chevron-right"></i>Publications 
 
 
+<a href="https://scholar.google.com/citations?user=1rTlcOQAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
+  <i class="ai ai-google-scholar"></i> Google Scholar
+</a>
 
 <table class="table table-hover">
 
@@ -257,23 +256,23 @@
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>S2017</td>
+  <td class='col-md-4'>S2017</td>
   <td><strong>Intro to Programming in Java</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-2'>F2016</td>
+  <td class='col-md-4'>F2016</td>
   <td><strong>Intro to Programming</strong> (VT CS1054), TA</td>
 </tr>
 <tr>
-  <td class='col-md-2'>S2015</td>
+  <td class='col-md-4'>S2015</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-2'>F2014</td>
+  <td class='col-md-4'>F2014</td>
   <td><strong>Data Structures and Algorithms</strong> (VT CS3014), TA</td>
 </tr>
 <tr>
-  <td class='col-md-2'>S2009</td>
+  <td class='col-md-4'>S2009</td>
   <td><strong>Machine Learning</strong> (NTU CSIE), TA</td>
 </tr>
 </table>
@@ -282,14 +281,14 @@
 ## <i class="fa fa-chevron-right"></i> Honors & Awards
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>2018</td>
+  <td class='col-md-4'>2018</td>
   <td>
     Fellow Employee Recognition Reward, Intel
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2010</td>
+  <td class='col-md-4'>2010</td>
   <td>
     Excellent TA award, National Taiwan University
     <!--  -->
@@ -301,19 +300,19 @@
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Languages</td>
+  <td class='col-md-4'>Languages</td>
   <td markdown="1">
 C, C++, Java, Make, Python
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <td class='col-md-4'>Frameworks</td>
   <td markdown="1">
 NumPy, Pandas, PyTorch, SciPy, TensorFlow
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Systems</td>
+  <td class='col-md-4'>Systems</td>
   <td markdown="1">
 Linux, OSX
   </td>
