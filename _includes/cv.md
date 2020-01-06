@@ -4,7 +4,7 @@
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-4'>Nov. 2019</td>
+  <td class='col-md-4'>Dec. 2019</td>
   <td>I will become a visiting scholar at University of Illinois Urbana-Champaign.</td>
 </tr>
 <tr>
