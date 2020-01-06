@@ -12,6 +12,14 @@
   <td>My internship work at IBM research has been accepted to IAAI!</td>
 </tr>
 <tr>
+  <td class='col-md-4'>Feb. 2019</td>
+  <td>I will join <a href='https://mitibmwatsonailab.mit.edu//'>MIT-IBM Watson AI Lab</a> as a research intern this summer.</td>
+</tr>
+<tr>
+  <td class='col-md-4'>Jan. 2019</td>
+  <td>I will have a spotlight talk on AAAI 2019. Come to see my presentations.</td>
+</tr>
+<tr>
   <td class='col-md-4'>Oct. 2018</td>
   <td>Our adversarial machine learning papers have been accepted to AAAI! The paper was accepted out of 7000+ submissions, the acceptance rate is only 16.2%!</td>
 </tr>
