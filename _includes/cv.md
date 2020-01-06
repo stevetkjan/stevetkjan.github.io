@@ -120,7 +120,7 @@
     <strong>Steve T. K. Jan</strong>, Vatche Ishakian, and Vinod Muthusamy<br>
     Proceedings of Innovative Applications of Artificial Intelligence (IAAI) 2020<br>
     
-    [1] [<a href='' target='_blank'>pdf</a>] <br>
+    [1] [<a href='http://people.cs.vt.edu/tekang/papers/IAAI20.pdf' target='_blank'>pdf</a>] <br>
     
 </td>
 </tr>
