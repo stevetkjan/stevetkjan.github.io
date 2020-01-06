@@ -87,6 +87,12 @@
 ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
 <tr>
+  <td class='col-md-4'>Dec 2019 - Present</td>
+  <td><strong>University of Illinois at Urbana-Champaign</strong>, Visiting Scholar</td>
+</tr>
+<tr>
+</tr>
+<tr>
   <td class='col-md-4'>May 2019 - Aug. 2019</td>
   <td><strong>MIT-IBM Watson AI Lab</strong>, Research Intern</td>
 </tr>
