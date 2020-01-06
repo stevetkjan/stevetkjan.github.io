@@ -42,6 +42,14 @@
 
 <table class="table table-hover">
   <tr>
+    <td class="col-md-4">Dec 2019 - Present</td>
+    <td>
+        <strong>Visiting Ph.D. in Computer Science</strong>
+        <br>
+      University of Illinois at Urbana-Champaign
+    </td>
+  </tr>
+  <tr>
     <td class="col-md-4">Aug 2014 - Present (On leave: 2015-16)</td>
     <td>
         <strong>Ph.D. in Computer Science</strong>
