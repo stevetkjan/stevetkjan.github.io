@@ -1,8 +1,12 @@
- I am a computer science Ph.D. student at Virginia Tech. My advisor is [Prof. Gang Wang](http://people.cs.vt.edu/~gangwang/). My research covers in a field of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential treats in real world applications. <br><br>
+ I am a computer science Ph.D. student at Virginia Tech. I am working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/index.html) and [Prof. Bimal Viswanath ](https://people.cs.vt.edu/vbimal/). My research covers in a field of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential treats in real world applications. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+<tr>
+  <td class='col-md-4'>Feb. 2020</td>
+  <td>Our bot detection paper has been accepted to IEEE SP'20!</td>
+</tr>
 <tr>
   <td class='col-md-4'>Dec. 2019</td>
   <td>I am a visiting scholar at University of Illinois Urbana-Champaign.</td>
@@ -18,30 +22,6 @@
 <tr>
   <td class='col-md-4'>Jan. 2019</td>
   <td>I will have a spotlight talk on AAAI 2019. Come to see my presentations.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Oct. 2018</td>
-  <td>Our adversarial machine learning papers have been accepted to AAAI! The paper was accepted out of 7000+ submissions, the acceptance rate is only 16.2%!</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Oct. 2018</td>
-  <td>I will be attending IMC 2018 this year. Come to see my presentations.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Aug. 2018</td>
-  <td>Our phishing detection papers have been accepted to IMC.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Aug. 2018</td>
-  <td>My intern contribution is recognized by Fellow employee at Intel!</td>
-</tr>
-<tr>
-  <td class='col-md-4'>May 2018</td>
-  <td>I am interning at <a href='https://intel.com/'>Intel</a> in Santa Clara this summer.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Jan. 2018</td>
-  <td>I will be attending ACM Group 2018 this year. Come see our work on targeted question and answerings systems.</td>
 </tr>
 </table>
 
