@@ -114,7 +114,7 @@
     <strong>Steve T. K. Jan</strong>, Qingying Hao, Tianrui Hu, Jiameng Pu, Sonal Oswal, Gang Wang, and Bimal Viswanath<br>
     Proceedings of The 41st IEEE Symposium on Security and Privacy (IEEE SP) 2020<br>
     
-    [1]<br>
+    [1] [<a href='http://people.cs.vt.edu/tekang/papers/sp20-odds.pdf' target='_blank'>pdf</a>] <br>
     
 </td>
 </tr>
