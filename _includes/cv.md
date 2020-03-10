@@ -1,4 +1,4 @@
- I am a computer science Ph.D. student at Virginia Tech. I am working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/index.html) and [Prof. Bimal Viswanath ](https://people.cs.vt.edu/vbimal/). My research covers in a field of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential treats in real world applications. <br><br>
+ I am a computer science Ph.D. student at Virginia Tech. I am working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/index.html) and [Prof. Bimal Viswanath ](https://people.cs.vt.edu/vbimal/). My research covers in a field of machine learning and security. My works have published on many top conference such as KDD/SDM/CIKM/IMC. My current projects are focused on understanding and identifying the potential threats in real world applications. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
