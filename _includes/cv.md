@@ -111,7 +111,7 @@
 <tr>
 <td>
     <strong>Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation</strong><br>
-    S Jan, Q Hao, T Hu, J Pu, S Oswal, G Wang, and B Viswanath<br>
+    <strong>Steve T. K. Jan</strong>, Qingying Hao, Tianrui Hu, Jiameng Pu, Sonal Oswal, Gang Wang, and Bimal Viswanath<br>
     Proceedings of The 41st IEEE Symposium on Security and Privacy (IEEE SP) 2020<br>
     
     [1] [<a href='http://people.cs.vt.edu/tekang/papers/sp20-odds.pdf' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=oW0tMLzqfb8' target='_blank'>video</a>] <br>
@@ -123,7 +123,7 @@
 <tr>
 <td>
     <strong>AI Trust in business processes: The need for process-aware explanations</strong><br>
-    S Jan, V Ishakian, and V Muthusamy<br>
+    <strong>Steve T. K. Jan</strong>, Vatche Ishakian, and Vinod Muthusamy<br>
     Proceedings of Innovative Applications of Artificial Intelligence (IAAI) 2020<br>
     
     [2] [<a href='http://people.cs.vt.edu/tekang/papers/IAAI20.pdf' target='_blank'>pdf</a>] <br>
@@ -135,7 +135,7 @@
 <tr>
 <td>
     <strong>Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks</strong><br>
-    S Jan, J Messou, Y Lin, J Huang, and G Wang<br>
+    <strong>Steve T. K. Jan</strong>, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, and Gang Wang<br>
     Proceedings of AAAI Conference on Artificial Intelligence (AAAI) 2019<br>
     
     [3] [<a href='http://people.cs.vt.edu/tekang/papers/AAAI19.pdf' target='_blank'>pdf</a>] <br>
@@ -147,7 +147,7 @@
 <tr>
 <td>
     <strong>Analyzing Payment-driven Targeted Q&A Systems</strong><br>
-    S Jan, C Wang, Q Zhang, and G Wang<br>
+    <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
     ACM Transactions on Social Computing (TSC) 2018<br>
     
     [4] [<a href='http://people.cs.vt.edu/tekang/papers/TSC_2018.pdf' target='_blank'>pdf</a>] <br>
@@ -159,7 +159,7 @@
 <tr>
 <td>
     <strong>Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild</strong><br>
-    K Tien, S Jan, H Hu, D Yao, and G Wang<br>
+    Ke Tien, <strong>Steve T. K. Jan</strong>, Hang Hu, Danfeng Yao, and Gang Wang<br>
      Proceedings of ACM Internet Measurement Conference (IMC) 2018<br>
     
     [5] [<a href='http://people.cs.vt.edu/tekang/papers/imc18.pdf' target='_blank'>pdf</a>]  [<a href='http://people.cs.vt.edu/tekang/slides/IMC2018slides.pdf' target='_blank'>slides</a>] <br>
@@ -171,7 +171,7 @@
 <tr>
 <td>
     <strong>The Next Domino To Fall: Empirical Analysis of User Passwords across Online Services</strong><br>
-    C Wang, S Jan, H Hu, D Bossart, and G Wang<br>
+    Chun Wang, <strong>Steve T. K. Jan</strong>, Hang Hu, Douglas Bossart, and Gang Wang<br>
      Proceedings of The ACM Conference on Data and Applications Security and Privacy (CODASPY)   2018<br>
     
     [6] [<a href='http://people.cs.vt.edu/tekang/papers/pass.pdf' target='_blank'>pdf</a>] <br>
@@ -183,7 +183,7 @@
 <tr>
 <td>
     <strong>Pay-per-Question: Towards Targeted Q&A with Payments</strong><br>
-    S Jan, C Wang, Q Zhang, and G Wang<br>
+    <strong>Steve T. K. Jan</strong>, Chun Wang, Qing Zhang, and Gang Wang<br>
      Proceedings of ACM International Conference on Supporting Group Work (GROUP) 2018<br>
     
     [7] [<a href='http://people.cs.vt.edu/tekang/papers/qa18.pdf' target='_blank'>pdf</a>]  [<a href='http://people.cs.vt.edu/tekang/slides/GROUP2018slides.pdf' target='_blank'>slides</a>] <br>
@@ -195,7 +195,7 @@
 <tr>
 <td>
     <strong>Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media</strong><br>
-    R Khandpur, T Ji, S Jan, G Wang, C Lu, and N Ramakrishnan<br>
+    Rupinder Paul Khandpur, Taoran Ji, <strong>Steve T. K. Jan</strong>, Gang Wang, Chang-Tien Lu, and Naren Ramakrishnan<br>
     Proceedings of Conference on Information and Knowledge Management (CIKM) 2017<br>
     
     [8] [<a href='http://people.cs.vt.edu/tekang/papers/crowdsec17.pdf' target='_blank'>pdf</a>] <br>
@@ -207,7 +207,7 @@
 <tr>
 <td>
     <strong>MeiKe: Influence-based Communities in Networkss</strong><br>
-    Y Zhang, B Adhikari, S Jan, and A Prakash<br>
+    Yao Zhang, Bijaya Adhikari, <strong>Steve T. K. Jan</strong>, and Aditya Prakash<br>
     Proceedings of SIAM International Conference on Data Mining (SDM)   2017<br>
     
     [9] [<a href='http://people.cs.vt.edu/tekang/papers/meike-sdm17.pdf' target='_blank'>pdf</a>] <br>
@@ -219,7 +219,7 @@
 <tr>
 <td>
     <strong>Unstable Communities in Network Ensembles</strong><br>
-    A Rahman, S Jan, H Kim, A Prakash, and T Murali<br>
+    Ahsanur Rahman, <strong>Steve T. K. Jan</strong>, Hyunju Kim, Aditya Prakash, and T. M. Murali<br>
     Proceedings of SIAM International Conference on Data Mining (SDM) 2016<br>
     
     [10] [<a href='http://people.cs.vt.edu/tekang/papers/ucs-sdm16.pdf' target='_blank'>pdf</a>] <br>
@@ -231,7 +231,7 @@
 <tr>
 <td>
     <strong>Mining Unstable Communities from Network Ensembles</strong><br>
-    A Rahmana, S Jan, H Kim, A Prakash, and T Murali<br>
+    Ahsanur Rahmana, <strong>Steve T. K. Jan</strong>, Hyunju Kim, Aditya Prakash, and T. M. Murali<br>
      Proceedings of International Conference on Data Mining Workshop (ICDM Workshop) 2016<br>
     
     [11] [<a href='http://people.cs.vt.edu/tekang/papers/ucs-sdm16.pdf' target='_blank'>pdf</a>] <br>
@@ -243,7 +243,7 @@
 <tr>
 <td>
     <strong>A Simple Methodology of Soft Cost-sensitive Classification</strong><br>
-    S Jan, D Wang, C Lin, and H Lin<br>
+    <strong>Steve T. K. Jan</strong>, Da-Wei Wang, Chi-Hung Lin, and Hsuan-Tien Lin<br>
      Proceedings of Knowledge Discovery and Data Minin (KDD) 2012<br>
     
     [12] [<a href='http://people.cs.vt.edu/tekang/papers/kdd12softcost.pdf' target='_blank'>pdf</a>] <br>
@@ -255,7 +255,7 @@
 <tr>
 <td>
     <strong>Data Selection Techniques for Large-scale RankSVM</strong><br>
-    K Lin, S Jan, and H Lin<br>
+    Ken-Yi Lin, <strong>Steve T. K. Jan</strong>, and Hsuan-Tien Lin<br>
     Proceedings of Technologies and Applications of Artificial Intelligence (TAAI) 2013<br>
     
     [13] [<a href='http://people.cs.vt.edu/tekang/papers/aai13prune.pdf' target='_blank'>pdf</a>] <br>
@@ -267,7 +267,7 @@
 <tr>
 <td>
     <strong>Cost-Sensitive Classification on Pathogen Species of Bacterial Meningitis by Surface Enhanced Raman Scattering</strong><br>
-    S Jan, H Lin, and D Wang<br>
+    <strong>Steve T. K. Jan</strong>, Hsuan-Tien Lin, and Da-Wei Wang<br>
      Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
     
     [14] [<a href='http://people.cs.vt.edu/tekang/papers/bibm11.pdf' target='_blank'>pdf</a>] <br>
