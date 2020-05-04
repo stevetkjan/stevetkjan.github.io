@@ -323,7 +323,7 @@
 <tr>
   <td class='col-md-4'>2010</td>
   <td>
-    Excellent TA award, National Taiwan University
+    Excellent TA Award, National Taiwan University
     <!--  -->
   </td>
 </tr>
