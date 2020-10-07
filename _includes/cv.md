@@ -119,7 +119,7 @@
 <tr>
 <td>
     <strong>Assessing Browser-level Defense against IDN-based Phishing</strong><br>
-    *Steve T. K. Jan, *Hang Hu, Yang Wang, and Gang Wang<br>
+    <strong>*Steve T. K. Jan</strong>, *Hang Hu, Yang Wang, and Gang Wang<br>
     Proceedings of The 30th USENIX Security Symposium (USENIX Security) 2021<br>
     
     [1] [<a href='http://people.cs.vt.edu/tekang/papers/usenix2021-browsers.pdf' target='_blank'>pdf</a>] <br>
