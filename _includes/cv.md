@@ -1,6 +1,3 @@
- I recently graduated from Virginia Tech. I will join Tiktok as a machine learning engineer. <br><br>
-
-
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
