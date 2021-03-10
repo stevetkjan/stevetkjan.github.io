@@ -8,27 +8,21 @@
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">Aug 2014 - Aug 2020 (On leave: 2015-16)</td>
+    <td class="col-md-4"> Virginia Tech</td>
     <td>
         <strong>Ph.D. in Computer Science</strong>
-        <br>
-      Virginia Tech
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">Sep. 2008 - Jun. 2010</td>
+    <td class="col-md-4">National Taiwan University</td>
     <td>
         <strong>M.S. in Computer Science</strong>
-        <br>
-      National Taiwan University
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">Sep. 2004 - Jun. 2008</td>
+    <td class="col-md-4"> Chung Yuan Christian University</td>
     <td>
         <strong>B.S. in Computer Science</strong>
-        <br>
-      Chung Yuan Christian University
     </td>
   </tr>
 </table>
