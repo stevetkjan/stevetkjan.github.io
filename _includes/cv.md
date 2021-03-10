@@ -1,39 +1,6 @@
  I recently graduated from Virginia Tech. I will join Tiktok as a machine learning engineer. <br><br>
 
 
-## <i class="fa fa-chevron-right"></i> News
-<table class="table table-hover">
-<tr>
-  <td class='col-md-4'>Sep. 2020</td>
-  <td>Our browser measurment paper has been accepted to USENIX Security'21!</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Aug. 2020</td>
-  <td>I have passed my dessertation defense. 😉</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Feb. 2020</td>
-  <td>Our bot detection paper has been accepted to IEEE SP'20!</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Dec. 2019</td>
-  <td>I am a visiting scholar at University of Illinois Urbana-Champaign.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Nov. 2019</td>
-  <td>My internship work at IBM research has been accepted to IAAI!</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Feb. 2019</td>
-  <td>I will join <a href='https://mitibmwatsonailab.mit.edu//'>MIT-IBM Watson AI Lab</a> as a research intern this summer.</td>
-</tr>
-<tr>
-  <td class='col-md-4'>Jan. 2019</td>
-  <td>I will have a spotlight talk on AAAI 2019. Come to see my presentations.</td>
-</tr>
-</table>
-
-
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
