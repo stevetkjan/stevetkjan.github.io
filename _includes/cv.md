@@ -2,12 +2,8 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-4">Dec 2019 - Aug 2020</td>
-    <td>
         <strong>Visiting Ph.D. in Computer Science</strong>
-        <br>
       University of Illinois at Urbana-Champaign
-    </td>
   </tr>
   <tr>
     <td class="col-md-4">Aug 2014 - Aug 2020 (On leave: 2015-16)</td>
