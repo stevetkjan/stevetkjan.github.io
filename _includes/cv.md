@@ -54,16 +54,6 @@
   <td class='col-md-4'>May 2018 - Aug. 2018</td>
   <td><strong>Intel</strong>, Software Engineering Intern</td>
 </tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-4'>Apr. 2014 - Aug 2020</td>
-  <td><strong>Virginia Tech</strong>, Research Assistant</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
 </table>
 
 
