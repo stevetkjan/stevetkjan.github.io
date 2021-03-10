@@ -2,7 +2,7 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-4"><strong>University of Illinois at Urbana-Champaign </strong> </td>
+    <td class="col-md-10"><strong>University of Illinois at Urbana-Champaign </strong> </td>
     <td>
         Visiting Ph.D. in Computer Science
     </td>
