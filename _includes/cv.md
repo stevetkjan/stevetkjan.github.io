@@ -63,10 +63,6 @@
 <tr>
 </tr>
 <tr>
-  <td class='col-md-4'>Apr. 2011 - May 2014</td>
-  <td><strong>Academia Sinica</strong>, Full-time Research Assistant</td>
-</tr>
-<tr>
 </tr>
 </table>
 
