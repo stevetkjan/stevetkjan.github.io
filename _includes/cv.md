@@ -12,7 +12,6 @@
       Virginia Tech
   </tr>
   <tr>
-    <td>
         <strong>M.S. in Computer Science</strong>
         <br>
       National Taiwan University
