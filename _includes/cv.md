@@ -2,36 +2,26 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-4"></td>
-    <td>
+
         <strong>Visiting Ph.D. in Computer Science</strong>
         <br>
       University of Illinois at Urbana-Champaign
-    </td>
   </tr>
   <tr>
-    <td class="col-md-4"></td>
-    <td>
         <strong>Ph.D. in Computer Science</strong>
         <br>
       Virginia Tech
-    </td>
   </tr>
   <tr>
-    <td class="col-md-4"></td>
     <td>
         <strong>M.S. in Computer Science</strong>
         <br>
       National Taiwan University
-    </td>
   </tr>
   <tr>
-    <td class="col-md-4"></td>
-    <td>
         <strong>B.S. in Computer Science</strong>
         <br>
       Chung Yuan Christian University
-    </td>
   </tr>
 </table>
 
