@@ -2,11 +2,15 @@
 
 <table class="table table-hover">
   <tr>
+    <td class="col-md-4"></td>
+    <td>
         <strong>Visiting Ph.D. in Computer Science</strong>
+        <br>
       University of Illinois at Urbana-Champaign
+    </td>
   </tr>
   <tr>
-    <td class="col-md-4">Aug 2014 - Aug 2020 (On leave: 2015-16)</td>
+    <td class="col-md-4"></td>
     <td>
         <strong>Ph.D. in Computer Science</strong>
         <br>
@@ -14,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">Sep. 2008 - Jun. 2010</td>
+    <td class="col-md-4"></td>
     <td>
         <strong>M.S. in Computer Science</strong>
         <br>
@@ -22,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">Sep. 2004 - Jun. 2008</td>
+    <td class="col-md-4"></td>
     <td>
         <strong>B.S. in Computer Science</strong>
         <br>
