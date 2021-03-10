@@ -2,7 +2,6 @@
 
 <table class="table table-hover">
   <tr>
-
         <strong>Visiting Ph.D. in Computer Science</strong>
         <br>
       University of Illinois at Urbana-Champaign
