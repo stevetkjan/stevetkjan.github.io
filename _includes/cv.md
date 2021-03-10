@@ -50,8 +50,6 @@
 
 
 ## <i class="fa fa-chevron-right"></i>Publications 
-
-
 <a href="https://scholar.google.com/citations?user=1rTlcOQAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
