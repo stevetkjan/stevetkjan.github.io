@@ -1,4 +1,4 @@
- I recently graduated from Virginia Tech. I was working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/index.html) and [Prof. Bimal Viswanath ](https://people.cs.vt.edu/vbimal/). My research covers in a field of machine learning and security. My works have published on many top conference such as KDD/SDM/AAAI/S&P. My current projects are focused on understanding and identifying the potential threats in real world applications. <br><br>
+ I recently graduated from Virginia Tech. I will join Tiktok as a machine learning engineer. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> News
