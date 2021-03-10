@@ -31,13 +31,13 @@
 ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-4'>May 2019 - Aug. 2019</td>
+  <td class='col-md-6'>May 2019 - Aug. 2019</td>
   <td>MIT-IBM Watson AI Lab, Research Intern</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-4'>May 2018 - Aug. 2018</td>
+  <td class='col-md-6'>May 2018 - Aug. 2018</td>
   <td>Intel, Software Engineering Intern</td>
 </tr>
 </table>
