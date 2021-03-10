@@ -8,21 +8,21 @@
     </td>
   </tr>
   <tr>
-    <td class="col-md-4"> Virginia Tech</td>
+    <td class="col-md-4"><strong> Virginia Tech </strong></td>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
+        Ph.D. in Computer Science
     </td>
   </tr>
   <tr>
-    <td class="col-md-4">National Taiwan University</td>
+    <td class="col-md-4"> <strong> National Taiwan University </strong></td>
     <td>
-        <strong>M.S. in Computer Science</strong>
+        M.S. in Computer Science
     </td>
   </tr>
   <tr>
-    <td class="col-md-4"> Chung Yuan Christian University</td>
+    <td class="col-md-4">  <strong> Chung Yuan Christian University </strong></td>
     <td>
-        <strong>B.S. in Computer Science</strong>
+        B.S. in Computer Science
     </td>
   </tr>
 </table>
