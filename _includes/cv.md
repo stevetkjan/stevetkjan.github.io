@@ -224,8 +224,7 @@
     <strong>Steve T. K. Jan</strong>, Hsuan-Tien Lin, and Da-Wei Wang<br>
      Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2011<br>
     
-    [15] [<a href='http://people.cs.vt.edu/tekang/papers/bibm11.pdf' target='_blank'>pdf</a>] <br>
-    
+  
 </td>
 </tr>
 
